@@ -14,18 +14,6 @@ https://demo.myruntime.com/website/fulfillmentClustersService/api/getPhilCluster
 Main task: Get all barangays in a specified province and municipality/city and save result to a csv file.
 For this exercise, you can just declare the province and municipality in a constant variable. Here are the initial variables that you can use:
 
-// For Gio
-const province = 'Capiz';
-const municipality = 'Roxas';
-
-// For Laviele:
-const province = 'Iloilo';
-const municipality = 'Iloilo City';
-
-// For Jonathan:
-const province = 'Iloilo';
-const municipality = 'Miagao';
-
 // For Michael:
 const province = 'Iloilo';
 const municipality = 'Miagao';
