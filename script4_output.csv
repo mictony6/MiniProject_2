@@ -1,0 +1,1902 @@
+id,name,parentId
+0,Adcadarao,0
+1,Agbobolo,0
+2,Badiangan,0
+3,Barrido,0
+4,Bato Biasong,0
+5,Bay-Ang,0
+6,Bucana Bunglas,0
+7,Central,0
+8,Culasi,0
+9,Lanjagan,0
+10,Luca,0
+11,Malayu-An,0
+12,Mangorocoro,0
+13,Nasidman,0
+14,Pantalan Nabaye,0
+15,Pantalan Navarro,0
+16,Pedada,0
+17,Pili,0
+18,Pinantan Diel,0
+19,Pinantan Elizalde,0
+20,Pinay Espinosa,0
+21,Poblacion,0
+22,Progreso,0
+23,Puente Bunglas,0
+24,Punta Buri,0
+25,Rojas,0
+26,San Antonio,0
+27,Santo Rosario,0
+28,Silagon,0
+29,Tagubanhan,0
+30,Taguhangin,0
+31,Tanduyan,0
+32,Tipacla,0
+33,Tubogan,0
+0,Agbatuan,1
+1,Badiang,1
+2,Balabag,1
+3,Balunos,1
+4,Cag-An,1
+5,Camiros,1
+6,Dangula-An,1
+7,Guipis,1
+8,Manganese,1
+9,Medina,1
+10,Mostro,1
+11,Palaypay,1
+12,Pantalan,1
+13,Poblacion,1
+14,Sambag Culob,1
+15,San Carlos,1
+16,San Juan Crisostomo,1
+17,Santa Rita,1
+18,Santo Rosario,1
+19,Serallo,1
+20,Vista Alegre,1
+0,Abang-Abang,2
+1,Agsing,2
+2,Atabay,2
+3,Ba-Ong,2
+4,Bagsakan,2
+5,Baguingin-Lanot,2
+6,Bagumbayan-Ilajas,2
+7,Balabago,2
+8,Ban-Ag,2
+9,Bancal,2
+10,Binalud,2
+11,Bugang,2
+12,Buhay,2
+13,Bulod,2
+14,Cabacanan Proper,2
+15,Cabacanan Rizal,2
+16,Cagay,2
+17,Coline,2
+18,Coline-Dalag,2
+19,Cunsad,2
+20,Cuyad,2
+21,Dalid,2
+22,Dao,2
+23,Gines,2
+24,Ginomoy,2
+25,Ingwan,2
+26,Laylayan,2
+27,Lico,2
+28,Luan-Luan,2
+29,Malamboy-Bondolan,2
+30,Malamhay,2
+31,Mambawi,2
+32,Manasa,2
+33,Manduyog,2
+34,Pajo,2
+35,Pianda-An Norte,2
+36,Pianda-An Sur,2
+37,Poblacion,2
+38,Punong,2
+39,Quinaspan,2
+40,Sinamay,2
+41,Sulong,2
+42,Taban-Manguining,2
+43,Tabug,2
+44,Tarug,2
+45,Tugaslon,2
+46,Ubodan,2
+47,Ugbo,2
+48,Ulay-Bugang,2
+49,Ulay-Hinablan,2
+50,Umingan,2
+0,Agusipan,3
+1,Astorga,3
+2,Bingauan,3
+3,Bita-Oyan,3
+4,Botong,3
+5,Budiawe,3
+6,Cabanga-An,3
+7,Cabayogan,3
+8,Calansanan,3
+9,Catubig,3
+10,Guinawahan,3
+11,Ilongbukid,3
+12,Indorohan,3
+13,Iniligan,3
+14,Latawan,3
+15,Linayuan,3
+16,Mainguit,3
+17,Malublub,3
+18,Manaolan,3
+19,Mapili Grande,3
+20,Mapili Sanjo,3
+21,Odiongan,3
+22,Poblacion (Badiangan),3
+23,San Julian,3
+24,Sariri,3
+25,Sianon,3
+26,Sinuagan,3
+27,Talaba,3
+28,Tamocol,3
+29,Teneclan,3
+30,Tina,3
+0,Alapasco,4
+1,Alinsolong,4
+2,Banban,4
+3,Batad Viejo,4
+4,Binon-An,4
+5,Bolhog,4
+6,Bulak Norte,4
+7,Bulak Sur,4
+8,Cabagohan,4
+9,Calangag,4
+10,Caw-I,4
+11,Drancalan,4
+12,Embarcadero,4
+13,Hamod,4
+14,Malico,4
+15,Nangka,4
+16,Pasayan,4
+17,Poblacion,4
+18,Quiazan Florete,4
+19,Quiazan Lopez,4
+20,Salong,4
+21,Santa Ana,4
+22,Tanao,4
+23,Tapi-An,4
+0,Aglosong,5
+1,Agnaga,5
+2,Bacjawan Norte,5
+3,Bacjawan Sur,5
+4,Bagongon,5
+5,Batiti,5
+6,Botlog,5
+7,Calamigan,5
+8,Dungon,5
+9,Igbon,5
+10,Jamul-Awon,5
+11,Lo-Ong,5
+12,Macalbang,5
+13,Macatunao,5
+14,Malangabang,5
+15,Maliogliog,5
+16,Nino,5
+17,Nipa,5
+18,Plandico,5
+19,Poblacion,5
+20,Polopina,5
+21,Salvacion,5
+22,Talotu-An,5
+23,Tambaliza,5
+24,Tamis-Ac,5
+0,Anono-O,6
+1,Bacong,6
+2,Bagumbayan Pob. (Bagumbayan-Granada),6
+3,Balantad-Carlos Fruto (Pob.),6
+4,Baras,6
+5,Binanua-An,6
+6,Bongol San Miguel,6
+7,Bongol San Vicente,6
+8,Bulad,6
+9,Buluangan,6
+10,Burgos-Gengos (Pob.),6
+11,Cabasi,6
+12,Cabubugan,6
+13,Calampitao,6
+14,Camangahan,6
+15,Generosa-Cristobal Colon (Pob.),6
+16,Gerona-Gimeno (Pob.),6
+17,Girado-Magsaysay (Pob.),6
+18,Gotera (Pob.),6
+19,Igcocolo,6
+20,Iyasan,6
+21,Libo-On Gonzales (Pob.),6
+22,Lubacan,6
+23,Nahapay,6
+24,Nalundan,6
+25,Nanga,6
+26,Nito-An Lupsag,6
+27,Particion,6
+28,Pescadores (Pob.),6
+29,Rizal-Tuguisan (Pob.),6
+30,Santa Rosa-Laguna,6
+31,Sipitan-Badiang,6
+32,Torreblanca-Blumentritt (Pob.),6
+0,Bigke,7
+1,Buntatala,7
+2,Cagamutan Norte,7
+3,Cagamutan Sur,7
+4,Calaboa,7
+5,Camangay,7
+6,Cari Mayor,7
+7,Cari Minor,7
+8,Gua-An,7
+9,Guihaman,7
+10,Guinobatan,7
+11,Guintas,7
+12,Lapayon,7
+13,M.v. Hechanova (Balagon),7
+14,Nabitasan,7
+15,Napnud,7
+16,Poblacion,7
+17,San Vicente,7
+0,Abat,8
+1,Agmanaphao,8
+2,Amiroy,8
+3,Badiangan,8
+4,Bangac,8
+5,Cabalabaguan,8
+6,Capul-An,8
+7,Dala,8
+8,Guibuangan,8
+9,Janipa-An East,8
+10,Janipa-An West,8
+11,Mina East (Pob.),8
+12,Mina West (Pob.),8
+13,Nasirum,8
+14,Naumuan,8
+15,Singay,8
+16,Talibong Grande,8
+17,Talibong Pequeno,8
+18,Tipolo,8
+19,Tolarucan,8
+20,Tumay,8
+21,Yugot,8
+0,Abangay,9
+1,Amamaros,9
+2,Bagacay,9
+3,Barasan,9
+4,Batuan,9
+5,Bongco,9
+6,Cahaguichican,9
+7,Callan,9
+8,Cansilayan,9
+9,Casalsagan,9
+10,Cato-Ogan,9
+11,Cau-Ayan,9
+12,Culob,9
+13,Danao,9
+14,Dapitan,9
+15,Dawis,9
+16,Dongsol,9
+17,Fernando Parcon Ward (Pob.),9
+18,Fundacion,9
+19,Guibuangan,9
+20,Guinacas,9
+21,Igang,9
+22,Intaluan,9
+23,Iwa Ilaud,9
+24,Iwa Ilaya,9
+25,Jamabalud,9
+26,Jebioc,9
+27,Lay-Ahan,9
+28,Lopez Jaena Ward (Pob.),9
+29,Lumbo,9
+30,Macatol,9
+31,Malusgod,9
+32,Nabitasan,9
+33,Naga,9
+34,Nanga,9
+35,Naslo,9
+36,Pajo,9
+37,Palanguia,9
+38,Pitogo,9
+39,Polot-An,9
+40,Primitivo Ledesma Ward (Pob.),9
+41,Purog,9
+42,Rumbang,9
+43,San Jose Ward (Pob.),9
+44,Sinuagan,9
+45,Tuburan,9
+46,Tumcon Ilaud,9
+47,Tumcon Ilaya,9
+48,Ubang,9
+49,Zarrague,9
+0,Aranjuez,10
+1,Bacolod,10
+2,Balanti-An,10
+3,Batuan,10
+4,Cabalic,10
+5,Camambugan,10
+6,Dolores,10
+7,Gimamanay,10
+8,Ipil,10
+9,Kinalkalan,10
+10,Lawis,10
+11,Malapoc,10
+12,Mamhut Norte,10
+13,Mamhut Sur,10
+14,Maya,10
+15,Pani-An,10
+16,Poblacion Norte,10
+17,Poblacion Sur,10
+18,Quiasan,10
+19,Salong,10
+20,Salvacion,10
+21,Tingui-An,10
+22,Zaragosa,10
+0,Aripdip,11
+1,Bagacay,11
+2,Calaigang,11
+3,Ilongbukid,11
+4,Poblacion,11
+5,Poscolon,11
+6,San Andres,11
+7,San Dionisio,11
+8,San Florentino,11
+0,Acao,12
+1,Amerang,12
+2,Amurao,12
+3,Anuang,12
+4,Ayaman,12
+5,Ayong,12
+6,Bacan,12
+7,Balabag,12
+8,Baluyan,12
+9,Banguit,12
+10,Bulay,12
+11,Cadoldolan,12
+12,Cagban,12
+13,Calawagan,12
+14,Calayo,12
+15,Duyanduyan,12
+16,Gaub,12
+17,Gines Interior,12
+18,Gines Patag,12
+19,Guibuangan Tigbauan,12
+20,Inabasan,12
+21,Inaca,12
+22,Inaladan,12
+23,Ingas,12
+24,Ito Norte,12
+25,Ito Sur,12
+26,Janipaan Central,12
+27,Janipaan Este,12
+28,Janipaan Oeste,12
+29,Janipaan Olo,12
+30,Jelicuon Lusaya,12
+31,Jelicuon Montinola,12
+32,Lag-An,12
+33,Leong,12
+34,Lutac,12
+35,Manguna,12
+36,Maraguit,12
+37,Morubuan,12
+38,Pacatin,12
+39,Pagotpot,12
+40,Pamul-Ogan,12
+41,Pamuringao Garrido,12
+42,Pamuringao Proper,12
+43,Pungtod,12
+44,Puyas,12
+45,Salacay,12
+46,Sulanga,12
+47,Tabucan,12
+48,Tacdangan,12
+49,Talanghauan,12
+50,Tigbauan Road,12
+51,Tinio-An,12
+52,Tiring,12
+53,Tupol Central,12
+54,Tupol Este,12
+55,Tupol Oeste,12
+56,Tuy-An,12
+57,Zone I Pob. (Barangay 1),12
+58,Zone II Pob. (Barangay 2),12
+59,Zone III Pob. (Barangay 3),12
+60,Zone IV Pob. (Barangay 4),12
+61,Zone IX Pob. (Barangay 9),12
+62,Zone V Pob. (Barangay 5),12
+63,Zone VI Pob. (Barangay 6 ),12
+64,Zone VII Pob. (Barangay 7),12
+65,Zone VIII Pob. (Barangay 8),12
+66,Zone X Pob. (Barangay 10),12
+67,Zone XI Pob. (Barangay 11),12
+0,Alacaygan,13
+1,Bariga,13
+2,Belen,13
+3,Bobon,13
+4,Bularan,13
+5,Carmelo,13
+6,De La Paz,13
+7,Dugwakan,13
+8,Fuentes*,13
+9,Juanico,13
+10,Libertad,13
+11,Magdalo,13
+12,Managopaya,13
+13,Merced,13
+14,Poblacion,13
+15,San Salvador,13
+16,Talokgangan,13
+17,Zona Sur,13
+0,Balud I,14
+1,Balud II,14
+2,Balud Lilo-An,14
+3,Dawis Centro,14
+4,Dawis Norte,14
+5,Dawis Sur,14
+6,Gines,14
+7,Ilawod Poblacion,14
+8,Ilaya Poblacion,14
+9,Inagdangan Centro,14
+10,Inagdangan Norte,14
+11,Inagdangan Sur,14
+12,Jalaud Norte,14
+13,Jalaud Sur,14
+14,Libongcogon,14
+15,Malunang,14
+16,Pajo,14
+17,Sambag,14
+18,Sigangao,14
+19,Talauguis,14
+20,Talibong,14
+21,Tubigan,14
+22,Tuburan,14
+23,Tuburan Sulbod,14
+0,Agutayan,15
+1,Angare,15
+2,Anjawan,15
+3,Baac,15
+4,Bagongbong,15
+5,Balangigan,15
+6,Balingasag,15
+7,Banugan,15
+8,Batuan,15
+9,Bita,15
+10,Buenavista,15
+11,Bugtongan,15
+12,Cabudian,15
+13,Calaca-An,15
+14,Calang,15
+15,Calawinan,15
+16,Capaycapay,15
+17,Capuling,15
+18,Catig,15
+19,Dila-An,15
+20,Fundacion,15
+21,Inadlawan,15
+22,Jagdong,15
+23,Jaguimit,15
+24,Lacadon,15
+25,Luag,15
+26,Malusgod,15
+27,Maribuyong,15
+28,Minanga,15
+29,Monpon,15
+30,Navalas,15
+31,Pader,15
+32,Pandan,15
+33,Poblacion A,15
+34,Poblacion B,15
+35,Poblacion C,15
+36,Poblacion D,15
+37,Ponong Grande,15
+38,Ponong Pequeno,15
+39,Purog,15
+40,Romblon,15
+41,San Isidro,15
+42,Santo Nino,15
+43,Sawe,15
+44,Taminla,15
+45,Tinocuan,15
+46,Tipolo,15
+0,Agcalaga,16
+1,Aglibacao,16
+2,Aglonok,16
+3,Alibunan,16
+4,Badlan Grande,16
+5,Badlan Pequeno,16
+6,Badu,16
+7,Baje San Julian,16
+8,Balaticon,16
+9,Banban Grande,16
+10,Banban Pequeno,16
+11,Barrio Calinog,16
+12,Binolosan Grande,16
+13,Binolosan Pequeno,16
+14,Cabagiao,16
+15,Cabugao,16
+16,Cahigon,16
+17,Camalongo,16
+18,Canabajan,16
+19,Caratagan,16
+20,Carvasana,16
+21,Dalid,16
+22,Datagan,16
+23,Gama Grande,16
+24,Gama Pequeno,16
+25,Garangan,16
+26,Guinbonyugan,16
+27,Guiso,16
+28,Hilwan,16
+29,Impalidan,16
+30,Ipil,16
+31,Jamin-Ay,16
+32,Lampaya,16
+33,Libot,16
+34,Lonoy,16
+35,Malag-It,16
+36,Malaguinabot,16
+37,Malapawe,16
+38,Malitbog Centro,16
+39,Mambiranan,16
+40,Manaripay,16
+41,Marandig,16
+42,Masaroy,16
+43,Maspasan,16
+44,Nalbugan,16
+45,Owak,16
+46,Poblacion Centro,16
+47,Poblacion Delgado,16
+48,Poblacion Ilaya,16
+49,Poblacion Rizal Ilaud,16
+50,San Nicolas,16
+51,Simsiman,16
+52,Supanga,16
+53,Tabucan,16
+54,Tahing,16
+55,Tibiao,16
+56,Tigbayog,16
+57,Toyungan,16
+58,Ulayan,16
+0,Aurora-Del Pilar (Pob.),17
+1,Bacay,17
+2,Bacong,17
+3,Balabag,17
+4,Balud,17
+5,Bantud,17
+6,Bantud Fabrica,17
+7,Baras,17
+8,Barasan,17
+9,Basa-Mabini Bonifacio (Pob.),17
+10,Bolilao,17
+11,Buenaflor Embarkadero (Pob.),17
+12,Burgos-Regidor (Pob.),17
+13,Calao,17
+14,Cali,17
+15,Cansilayan,17
+16,Capaliz,17
+17,Cayos,17
+18,Compayan,17
+19,Dacutan,17
+20,Ermita,17
+21,Ilaya 1St,17
+22,Ilaya 2Nd,17
+23,Ilaya 3Rd,17
+24,Jardin,17
+25,Lacturan,17
+26,Lopez Jaena - Rizal (Pob.),17
+27,Managuit,17
+28,Maquina,17
+29,Nanding Lopez,17
+30,Pagdugue,17
+31,Paloc Bigque,17
+32,Paloc Sool,17
+33,Patlad,17
+34,Pd Monfort North (Lublub),17
+35,Pd Monfort South (Guinsampanan),17
+36,Pulao,17
+37,Rosario,17
+38,Sapao,17
+39,Sulangan,17
+40,Tabucan,17
+41,Talusan,17
+42,Tambobo,17
+43,Tamboilan,17
+44,Victorias,17
+0,Abeto Mirasol Taft South (Quirino Abeto),18
+1,Aguinaldo,18
+2,Airport (Tabucan Airport),18
+3,Alalasan Lapuz,18
+4,Arguelles,18
+5,Arsenal Aduana,18
+6,Bakhaw,18
+7,Balabago,18
+8,Balantang,18
+9,Baldoza,18
+10,Bantud,18
+11,Banuyao,18
+12,Baybay Tanza,18
+13,Benedicto (Jaro),18
+14,Bito-On,18
+15,Bolilao,18
+16,Bonifacio (Arevalo),18
+17,Bonifacio Tanza,18
+18,Buhang,18
+19,Buhang Taft North,18
+20,Buntatala,18
+21,Burgos-Mabini-Plaza,18
+22,Caingin,18
+23,Calahunan,18
+24,Calaparan,18
+25,Calubihan,18
+26,Calumpang,18
+27,Camalig,18
+28,Cochero,18
+29,Compania,18
+30,Concepcion-Montes,18
+31,Cuartero,18
+32,Cubay,18
+33,Danao,18
+34,Delgado-Jalandoni-Bagumbayan,18
+35,Democracia,18
+36,Desamparados,18
+37,Divinagracia,18
+38,Don Esteban-Lapuz,18
+39,Dulonan,18
+40,Dungon,18
+41,Dungon A,18
+42,Dungon B,18
+43,East Baluarte,18
+44,East Timawa,18
+45,Edganzon,18
+46,El 98 Castilla (Claudio Lopez),18
+47,Fajardo,18
+48,Flores,18
+49,General Hughes-Montes,18
+50,Gloria,18
+51,Gustilo,18
+52,Guzman-Jesena,18
+53,Habog-Habog Salvacion,18
+54,Hibao-An Norte,18
+55,Hibao-An Sur,18
+56,Hinactacan,18
+57,Hipodromo,18
+58,Inday,18
+59,Infante,18
+60,Ingore,18
+61,Jalandoni Estate-Lapuz,18
+62,Jalandoni-Wilson,18
+63,Javellana,18
+64,Jereos,18
+65,Kahirupan,18
+66,Kasingkasing,18
+67,Katilingban,18
+68,Kauswagan,18
+69,Laguda,18
+70,Lanit,18
+71,Lapuz Norte,18
+72,Lapuz Sur,18
+73,Legaspi Dela Rama,18
+74,Liberation,18
+75,Libertad Santa Isabel,18
+76,Libertad-Lapuz,18
+77,Loboc-Lapuz,18
+78,Lopez Jaena (Jaro),18
+79,Lopez Jaena Norte,18
+80,Lopez Jaena Sur,18
+81,Luna (Jaro),18
+82,Luna (La Paz),18
+83,M. V. Hechanova,18
+84,Mabolo-Delgado,18
+85,Macarthur,18
+86,Magdalo,18
+87,Magsaysay,18
+88,Magsaysay Village,18
+89,Malipayon-Delgado,18
+90,Mansaya-Lapuz,18
+91,Marcelo H. Del Pilar,18
+92,Maria Clara,18
+93,Maria Cristina,18
+94,Mohon,18
+95,Molo Boulevard,18
+96,Monica Blumentritt,18
+97,Montinola,18
+98,Muelle Loney-Montes,18
+99,Nabitasan,18
+100,Navais,18
+101,Nonoy,18
+102,North Avancena,18
+103,North Baluarte,18
+104,North Fundidor,18
+105,North San Jose,18
+106,Obrero-Lapuz,18
+107,Onate De Leon,18
+108,Ortiz,18
+109,Osmena,18
+110,Our Lady Of Fatima,18
+111,Our Lady Of Lourdes,18
+112,Pale Benedicto Rizal (Mandurriao),18
+113,Phhc Block 17,18
+114,Phhc Block 22 Nha,18
+115,Poblacion Molo,18
+116,President Roxas,18
+117,Progreso-Lapuz,18
+118,Punong-Lapuz,18
+119,Quezon,18
+120,Quintin Salas,18
+121,Railway,18
+122,Rima-Rizal,18
+123,Rizal (La Paz),18
+124,Rizal Estanzuela,18
+125,Rizal Ibarra,18
+126,Rizal Palapala I,18
+127,Rizal Palapala II,18
+128,Roxas Village,18
+129,Sambag,18
+130,Sampaguita,18
+131,San Agustin,18
+132,San Antonio,18
+133,San Felix,18
+134,San Isidro (Jaro),18
+135,San Isidro (La Paz),18
+136,San Jose (Arevalo),18
+137,San Jose (City Proper),18
+138,San Jose (Jaro),18
+139,San Juan,18
+140,San Nicolas,18
+141,San Pedro (Jaro),18
+142,San Pedro (Molo),18
+143,San Rafael,18
+144,San Roque,18
+145,San Vicente,18
+146,Santa Cruz,18
+147,Santa Filomena,18
+148,Santa Rosa,18
+149,Santo Domingo,18
+150,Santo Nino Norte,18
+151,Santo Nino Sur,18
+152,Santo Rosario-Duran,18
+153,Seminario (Burgos Jalandoni),18
+154,Simon Ledesma,18
+155,Sinikway (Bangkerohan Lapuz),18
+156,So-Oc,18
+157,South Baluarte,18
+158,South Fundidor,18
+159,South San Jose,18
+160,Taal,18
+161,Tabuc Suba (Jaro),18
+162,Tabuc Suba (La Paz),18
+163,Tabucan,18
+164,Tacas,18
+165,Tagbac,18
+166,Tanza-Esperanza,18
+167,Tap-Oc,18
+168,Taytay Zone II,18
+169,Ticud (La Paz),18
+170,Timawa Tanza I,18
+171,Timawa Tanza II,18
+172,Ungka,18
+173,Veterans Village,18
+174,Villa Anita,18
+175,West Habog-Habog,18
+176,West Timawa,18
+177,Yulo Drive,18
+178,Yulo-Arroyo,18
+179,Zamora-Melliza,18
+0,Acuit,19
+1,Agcuyawan Calsada,19
+2,Agcuyawan Pulo,19
+3,Bagongbong,19
+4,Baras,19
+5,Bungca,19
+6,Cabilauan,19
+7,Cruz,19
+8,Guintas,19
+9,Igbong,19
+10,Ilaud Poblacion,19
+11,Ilaya Poblacion,19
+12,Jalaud,19
+13,Lagubang,19
+14,Lanas,19
+15,Lico-An,19
+16,Linao,19
+17,Monpon,19
+18,Palaciawan,19
+19,Patag,19
+20,Salihid,19
+21,So-Ol,19
+22,Sohoton,19
+23,Tabuc-Suba,19
+24,Tabucan,19
+25,Talisay,19
+26,Tinorian,19
+27,Tiwi,19
+28,Tubungan,19
+0,Agboy Norte,20
+1,Agboy Sur,20
+2,Agta,20
+3,Ambulong,20
+4,Anonang,20
+5,Apian,20
+6,Avanzada,20
+7,Awis,20
+8,Ayabang,20
+9,Ayubo,20
+10,Bacolod,20
+11,Baje,20
+12,Banagan,20
+13,Barangbang,20
+14,Barasan,20
+15,Bayag Norte,20
+16,Bayag Sur,20
+17,Binolbog,20
+18,Biri Norte,20
+19,Biri Sur,20
+20,Bobon,20
+21,Bucari,20
+22,Buenavista,20
+23,Buga,20
+24,Bulad,20
+25,Bulwang,20
+26,Cabolo-An,20
+27,Cabunga-An,20
+28,Cabutongan,20
+29,Cagay,20
+30,Camandag,20
+31,Camando,20
+32,Cananaman,20
+33,Capt. Fernando,20
+34,Carara-An,20
+35,Carolina,20
+36,Cawilihan,20
+37,Coyugan Norte,20
+38,Coyugan Sur,20
+39,Danao,20
+40,Dorog,20
+41,Dusacan,20
+42,Gines,20
+43,Gumboc,20
+44,Igcadios,20
+45,Ingay,20
+46,Isian Norte,20
+47,Isian Victoria,20
+48,Jamog Gines,20
+49,Lampaya,20
+50,Lanag,20
+51,Lang-Og,20
+52,Ligtos,20
+53,Lonoc,20
+54,Magcapay,20
+55,Maliao,20
+56,Malublub,20
+57,Manampunay,20
+58,Marirong,20
+59,Mina,20
+60,Mocol,20
+61,Nagbangi,20
+62,Nalbang,20
+63,Odong-Odong,20
+64,Oluangan,20
+65,Omambong,20
+66,Paga,20
+67,Pandan,20
+68,Panginman,20
+69,Paoy,20
+70,Pepe,20
+71,Poblacion,20
+72,Salngan,20
+73,Samlague,20
+74,Siol Norte,20
+75,Siol Sur,20
+76,Tacuyong Norte,20
+77,Tacuyong Sur,20
+78,Tagsing,20
+79,Talacuan,20
+80,Ticuan,20
+81,Tina-An Norte,20
+82,Tina-An Sur,20
+83,Tu-Og,20
+84,Tunguan,20
+0,Abangay,21
+1,Agcarope,21
+2,Aglobong,21
+3,Aguingay,21
+4,Anhawan,21
+5,Aquino Nobleza East (Pob.),21
+6,Aquino Nobleza West (Pob.),21
+7,Atimonan,21
+8,Balanac,21
+9,Barasalon,21
+10,Bongol,21
+11,Cabantog,21
+12,Calmay,21
+13,Canawili,21
+14,Canawillian,21
+15,Capt. A. Tirador (Pob.),21
+16,Caranas,21
+17,Caraudan,21
+18,Carigangan,21
+19,Concepcion Pob. (D.g. Abordo),21
+20,Crispin Salazar North (Pob.),21
+21,Crispin Salazar South (Pob.),21
+22,Cunsad,21
+23,Dabong,21
+24,Damires,21
+25,Damo-Ong,21
+26,Danao,21
+27,Don T. Lutero Center (Pob.),21
+28,Don T. Lutero East (Pob.),21
+29,Don T. Lutero West Pob. (Don T. Lutero North),21
+30,Gines,21
+31,Golgota (Pob.),21
+32,Guadalupe,21
+33,Jibolo,21
+34,Kuyot,21
+35,Locsin (Pob.),21
+36,Madong,21
+37,Manacabac,21
+38,Mangil,21
+39,Matag-Ub,21
+40,Monte-Magapa,21
+41,Pangilihan,21
+42,Panuran,21
+43,Pararinga,21
+44,Patong-Patong,21
+45,Quipot,21
+46,R. Armada (Pob.),21
+47,S. M. Villa (Pob.),21
+48,San Julian (Pob.),21
+49,San Pedro (Pob.),21
+50,Santa Rita (Pob.),21
+51,Santo Tomas,21
+52,Sarawag,21
+53,Tambal,21
+54,Tamu-An,21
+55,Tiringanan,21
+56,Tolarucan,21
+57,Tuburan,21
+58,Ubian,21
+59,Yabon,21
+0,Abay,22
+1,Abilay,22
+2,Agrocel Pob. (Aguinaldo-Roxas--Celso Mayor),22
+3,Amerang,22
+4,Bagacay East,22
+5,Bagacay West,22
+6,Bolo,22
+7,Bug-Ot,22
+8,Bulay,22
+9,Buntalan,22
+10,Burak,22
+11,Cabangcalan,22
+12,Cabatac,22
+13,Caigon,22
+14,Cananghan,22
+15,Canawili,22
+16,Dagami,22
+17,Daja,22
+18,Dalusan,22
+19,Delcar Pob. (Delgado-Cartagena),22
+20,Inabasan,22
+21,Layog,22
+22,Linab,22
+23,Linagan Calsada,22
+24,Linagan Tacas,22
+25,Magsaysay,22
+26,Mandog,22
+27,Mari Pob. (Mabini-Rizal),22
+28,Miapa,22
+29,Nagba,22
+30,Nasaka,22
+31,Naslo-Bucao,22
+32,Nasuli,22
+33,Panalian,22
+34,Piandaan East,22
+35,Piandaan West,22
+36,Pispis,22
+37,Punong,22
+38,Santa Rita,22
+39,Sinubsuban,22
+40,Siwalo,22
+41,Subog,22
+42,Thtp Pob. (Taft-Thompson--Hughes-Del Pilar),22
+43,Tigbauan,22
+44,Trangka,22
+45,Tubang,22
+46,Tulahong,22
+47,Tuy-An East,22
+48,Tuy-An West,22
+49,Ubian,22
+0,Agba-O,23
+1,Alabidhan,23
+2,Bulabog,23
+3,Cairohan,23
+4,Guinhulacan,23
+5,Inamyungan,23
+6,Malitbog Ilawod,23
+7,Malitbog Ilaya,23
+8,Ngingi-An,23
+9,Poblacion,23
+10,Quinangyana,23
+11,Quinar-Upan,23
+12,Tapacon,23
+13,Tubod,23
+0,Abilay Norte,24
+1,Abilay Sur,24
+2,Alegre,24
+3,Batuan Ilaud,24
+4,Batuan Ilaya,24
+5,Bita Norte,24
+6,Bita Sur,24
+7,Botong,24
+8,Buray,24
+9,Cabanbanan,24
+10,Caboloan Norte,24
+11,Caboloan Sur,24
+12,Cadinglian,24
+13,Cagbang,24
+14,Calam-Isan,24
+15,Galang,24
+16,Lambuyao,24
+17,Mambog,24
+18,Pakiad,24
+19,Poblacion East,24
+20,Poblacion North,24
+21,Poblacion South,24
+22,Poblacion West,24
+23,Polo Maestra Bita,24
+24,Rizal,24
+25,Salngan,24
+26,Sambaludan,24
+27,San Antonio,24
+28,San Nicolas,24
+29,Santa Clara,24
+30,Santa Monica,24
+31,Santa Rita,24
+32,Tagbac Norte,24
+33,Tagbac Sur,24
+34,Trapiche,24
+35,Tuburan,24
+36,Turog-Turog,24
+0,Agdahon,25
+1,Agdayao,25
+2,Aglalana,25
+3,Agtabo,25
+4,Agtambo,25
+5,Alimono,25
+6,Arac,25
+7,Ayuyan,25
+8,Bacuranan,25
+9,Bagacay,25
+10,Batu,25
+11,Bayan,25
+12,Bitaogan,25
+13,Buenavista,25
+14,Buyo,25
+15,Cabunga,25
+16,Cadilang,25
+17,Cairohan,25
+18,Dalicanan,25
+19,Gegachac,25
+20,Gemat-Y,25
+21,Gemumua-Agahon,25
+22,Gines Viejo,25
+23,Imbang Grande,25
+24,Jaguimitan,25
+25,Libo-O,25
+26,Maasin,25
+27,Magdungao,25
+28,Malag-It Grande,25
+29,Malag-It Pequeno,25
+30,Mambiranan Grande,25
+31,Mambiranan Pequeno,25
+32,Man-It,25
+33,Mantulang,25
+34,Mulapula,25
+35,Nueva Union,25
+36,Pagaypay,25
+37,Pangi,25
+38,Poblacion Ilawod,25
+39,Poblacion Ilaya,25
+40,Punong,25
+41,Quinagaringan Grande,25
+42,Quinagaringan Pequeno,25
+43,Sablogon,25
+44,Salngan,25
+45,Santo Tomas,25
+46,Sarapan,25
+47,Tagubong,25
+48,Talongonan,25
+49,Tubod,25
+50,Tuburan,25
+0,Abangay,26
+1,Agsalanan,26
+2,Agtatacay,26
+3,Alegria,26
+4,Bongloy,26
+5,Buenavista,26
+6,Caguyuman,26
+7,Calicuang,26
+8,Camambugan,26
+9,Dawis,26
+10,Ginalinan Nuevo,26
+11,Ginalinan Viejo,26
+12,Gutao,26
+13,Ilajas,26
+14,Libo-O,26
+15,Licu-An,26
+16,Lincud,26
+17,Matangharon,26
+18,Moroboro,26
+19,Namatay,26
+20,Nazuni,26
+21,Pandan,26
+22,Poblacion,26
+23,Potolan,26
+24,San Jose,26
+25,San Matias,26
+26,Siniba-An,26
+27,Tabugon,26
+28,Tambunac,26
+29,Tanghawan,26
+30,Tiguib,26
+31,Tinocuan,26
+32,Tulatula-An,26
+0,Abaca,27
+1,Asisig,27
+2,Bagonawa,27
+3,Baliwagan,27
+4,Bantayan,27
+5,Batuan,27
+6,Braulan,27
+7,Cabugao Nuevo,27
+8,Cabugao Viejo,27
+9,Camiri,27
+10,Catan-Agan,27
+11,Compo,27
+12,Cubay,27
+13,Dacal,27
+14,Dumiles,27
+15,Garita,27
+16,Gines Nuevo,27
+17,Guintorilan,27
+18,Imbang Pequeno,27
+19,Imbesad-An,27
+20,Iprog,27
+21,Lip-Ac,27
+22,Madarag,27
+23,Mapili,27
+24,Nayon,27
+25,Paga,27
+26,Palje,27
+27,Poblacion Ilawod,27
+0,Amboyu-An,28
+1,Andres Bonifacio,28
+2,Antalon,28
+3,Bad-As,28
+4,Bagumbayan,28
+5,Balabago,28
+6,Baybay,28
+7,Bayunan (Panday Oro),28
+8,Bolbogan,28
+9,Bonga,28
+10,Bucaya,28
+11,Bulho,28
+12,Cadluman,28
+13,Cadoldolan,28
+14,Camaba-An,28
+15,Camia,28
+16,Cata-An,28
+17,Crossing Dapuyan,28
+18,Cubay,28
+19,Cumarascas,28
+20,Dacdacanan,28
+21,Danawan,28
+22,Doldol,28
+23,Dongoc,28
+24,Escalantera,28
+25,Ginot-An,28
+26,Guibongan Bayunan,28
+27,Huna,28
+28,Igbaje,28
+29,Igbangcal,28
+30,Igbinangon,28
+31,Igburi,28
+32,Igcabutong,28
+33,Igcadlum,28
+34,Igcaphang,28
+35,Igcaratong,28
+36,Igcondao,28
+37,Igcores,28
+38,Igdagmay,28
+39,Igdomingding,28
+40,Iglilico,28
+41,Igpayong,28
+42,Jawod,28
+43,Langca,28
+44,Languanan,28
+45,Lawigan,28
+46,Lomboy,28
+47,Lomboyan (Santa Ana),28
+48,Lopez Vito,28
+49,Mabini Norte,28
+50,Mabini Sur,28
+51,Manhara,28
+52,Maninila,28
+53,Masagud,28
+54,Matambog,28
+55,Mayunoc,28
+56,Montinola,28
+57,Nadsadan,28
+58,Nagquirisan,28
+59,Nagsipit,28
+60,New Gumawan,28
+61,Panatan,28
+62,Pitogo,28
+63,Purok 1 (Pob.),28
+64,Purok 2 (Pob.),28
+65,Purok 3 (Pob.),28
+66,Purok 4 (Pob.),28
+67,Purok 5 (Pob.),28
+68,Qui-Anan,28
+69,Roma,28
+70,San Luis,28
+71,San Mateo Norte,28
+72,San Mateo Sur,28
+73,Santa Rita,28
+74,Santiago,28
+75,Sinogbuhan,28
+76,Siwaragan,28
+77,Talagutac,28
+78,Tapikan,28
+79,Taslan,28
+80,Tiglawa,28
+81,Tiolas,28
+82,To-Og,28
+83,Torocadan,28
+84,Ulay,28
+0,Alameda,29
+1,Amorogtong,29
+2,Anilawan,29
+3,Bagacay,29
+4,Bagacayan,29
+5,Bagay,29
+6,Balibagan,29
+7,Barangay 1 Poblacion,29
+8,Barangay 2 Poblacion,29
+9,Barangay 3 Poblacion,29
+10,Barangay 4 Poblacion,29
+11,Barangay 5 Poblacion,29
+12,Barangay 6 Poblacion,29
+13,Barasan,29
+14,Binanua-An,29
+15,Boclod,29
+16,Buenavista,29
+17,Buga,29
+18,Bugnay,29
+19,Calampitao,29
+20,Cale,29
+21,Catiringan,29
+22,Corucuan,29
+23,Igcabugao,29
+24,Igpigus,29
+25,Igtalongon,29
+26,Indaluyon,29
+27,Jovellar,29
+28,Kinagdan,29
+29,Lab-On,29
+30,Lacay Dol-Dol,29
+31,Lumangan,29
+32,Lutungan,29
+33,Mantangon,29
+34,Mulangan,29
+35,Pasong,29
+36,Passi,29
+37,Pinaopawan,29
+38,Riro-An,29
+39,San Ambrosio,29
+40,Santa Barbara,29
+41,Signe,29
+42,Tabiac,29
+43,Talayatay,29
+44,Taytay,29
+45,Tigbanaba,29
+0,Aguirre,30
+1,Aldeguer,30
+2,Alibayog,30
+3,Anoring,30
+4,Apelo,30
+5,Apologista,30
+6,Aposaga,30
+7,Arante,30
+8,Ardemil,30
+9,Aspera,30
+10,Aswe-Pabriaga,30
+11,Bagaygay,30
+12,Bakabak,30
+13,Batitao,30
+14,Bato,30
+15,Castor,30
+16,Crespo,30
+17,Del Castillo,30
+18,Devera,30
+19,Domingo,30
+20,Ferraris,30
+21,Gildore,30
+22,Improgo,30
+23,Juaneza,30
+24,Labigan,30
+25,Lanciola,30
+26,Latawan,30
+27,Malapaya,30
+28,Muyco,30
+29,Padios,30
+30,Pasig,30
+31,Poblacion Ilawod,30
+32,Poblacion Ilaya,30
+33,Poblacion Market,30
+34,Posadas,30
+35,Preciosa,30
+36,Salcedo,30
+37,San Luis,30
+38,Tady,30
+39,Tentay,30
+40,Villahermosa,30
+41,Zerrudo,30
+0,Bugnay,31
+1,California,31
+2,De La Pena,31
+3,Del Pilar,31
+4,General Luna,31
+5,La Fortuna,31
+6,Lipata,31
+7,Natividad,31
+8,Nueva Invencion,31
+9,Nueva Sevilla,31
+10,Poblacion,31
+11,Puerto Princesa,31
+12,Rizal,31
+13,San Antonio,31
+14,San Fernando,31
+15,San Francisco,31
+16,San Geronimo,31
+17,San Juan,31
+18,San Lucas,31
+19,San Miguel,31
+20,San Roque,31
+21,Santiago,31
+22,Santo Domingo,31
+23,Santo Tomas,31
+24,Ugasan,31
+25,Vista Alegre,31
+0,Alupidian,32
+1,Atabayan,32
+2,Bagacay,32
+3,Baguingin,32
+4,Bagumbayan,32
+5,Bangkal,32
+6,Bantud,32
+7,Barangay 1 (Pob.),32
+8,Barangay 2 (Pob.),32
+9,Barangay 3 (Pob.),32
+10,Barangay 4 (Pob.),32
+11,Barangay 5 (Pob.),32
+12,Barangay 6 (Pob.),32
+13,Barangay 7 (Pob.),32
+14,Barangay 8 (Pob.),32
+15,Barangay 9 (Pob.),32
+16,Barosong,32
+17,Barroc,32
+18,Bayuco,32
+19,Binaliuan Mayor,32
+20,Binaliuan Menor,32
+21,Bitas,32
+22,Buenavista,32
+23,Bugasongan,32
+24,Buyu-An,32
+25,Canabuan,32
+26,Cansilayan,32
+27,Cordova Norte,32
+28,Cordova Sur,32
+29,Danao,32
+30,Dapdap,32
+31,Dorong-An,32
+32,Guisian,32
+33,Isauan,32
+34,Isian,32
+35,Jamog,32
+36,Lanag,32
+37,Linobayan,32
+38,Lubog,32
+39,Nagba,32
+40,Namocon,32
+41,Napnapan Norte,32
+42,Napnapan Sur,32
+43,Olo Barroc,32
+44,Parara Norte,32
+45,Parara Sur,32
+46,San Rafael,32
+47,Sermon,32
+48,Sipitan,32
+49,Supa,32
+50,Tan Pael,32
+51,Taro,32
+0,Agpipili,33
+1,Alcantara,33
+2,Almenana,33
+3,Anabo,33
+4,Bankal,33
+5,Buenavista,33
+6,Cabantohan,33
+7,Capinahan,33
+8,Dalipe,33
+9,Dapdapan,33
+10,Gerongan,33
+11,Imbaulan,33
+12,Layogbato,33
+13,Marapal,33
+14,Milan,33
+15,Nagsulang,33
+16,Nasapahan,33
+17,Omio,33
+18,Pacuan,33
+19,Poblacion Nw Zone,33
+20,Poblacion Se Zone,33
+21,Pontoc,33
+22,San Antonio,33
+23,San Diego,33
+24,San Jose Moto,33
+25,Sepanton,33
+26,Sincua,33
+27,Tabunan,33
+28,Tugas,33
+29,Velasco,33
+30,Yawyawan,33
+0,Abong,34
+1,Alipata,34
+2,Asluman,34
+3,Bancal,34
+4,Barangcalan,34
+5,Barosbos,34
+6,Binuluangan,34
+7,Bito-On,34
+8,Bolo,34
+9,Buaya,34
+10,Buenavista,34
+11,Cabilao Grande,34
+12,Cabilao Pequeno,34
+13,Cabuguana,34
+14,Cawayan,34
+15,Dayhagan,34
+16,Gabi,34
+17,Granada,34
+18,Guinticgan,34
+19,Isla De Cana,34
+20,Lantangan,34
+21,Manlot,34
+22,Nalumsan,34
+23,Pantalan,34
+24,Poblacion,34
+25,Punta (Bolocawe),34
+26,Punta Batuanan,34
+27,San Fernando,34
+28,Tabugon,34
+29,Talingting,34
+30,Tarong,34
+31,Tinigban,34
+32,Tupaz,34
+0,Baclayan,35
+1,Badiang,35
+2,Balabag,35
+3,Bilidan,35
+4,Bita-Og Gaja,35
+5,Bololacao,35
+6,Burot,35
+7,Cabilauan,35
+8,Cabugao,35
+9,Cagban,35
+10,Calumbuyan,35
+11,Damires,35
+12,Dawis,35
+13,General Delgado,35
+14,Guinobatan,35
+15,Janipa-An Oeste,35
+16,Jelicuon Este,35
+17,Jelicuon Oeste,35
+18,Pasil,35
+19,Poblacion,35
+20,Wari-Wari,35
+0,Bayas (Bayas Island),36
+1,Bayuyan,36
+2,Botongon,36
+3,Bulaquena,36
+4,Calapdan,36
+5,Cano-An,36
+6,Daan Banua,36
+7,Daculan,36
+8,Gogo,36
+9,Jolog,36
+10,Loguingot (Loguingot Island),36
+11,Lonoy (Roman Mosqueda),36
+12,Lumbia (Ana Cuenca),36
+13,Malbog,36
+14,Manipulon,36
+15,Pa-On,36
+16,Poblacion Zone 1,36
+17,Poblacion Zone II,36
+18,Poblacion Zone III,36
+19,San Roque,36
+20,Santa Ana,36
+21,Tabu-An,36
+22,Tacbuyan,36
+23,Tanza,36
+24,Villa Pani-An,36
+0,Agdaliran,37
+1,Amayong,37
+2,Bagacay,37
+3,Batuan,37
+4,Bondulan,37
+5,Borongon,37
+6,Canas,37
+7,Capinang,37
+8,Cubay,37
+9,Cudionan,37
+10,Dugman,37
+11,Hacienda Conchita,37
+12,Madanlog,37
+13,Mandu-Awak,37
+14,Moto,37
+15,Naborot,37
+16,Nipa,37
+17,Odiongan,37
+18,Pangi,37
+19,Pase,37
+20,Poblacion,37
+21,San Nicolas,37
+22,Santol,37
+23,Siempreviva,37
+24,Sua,37
+25,Talo-Ato,37
+26,Tamangi,37
+27,Tiabas,37
+28,Tuble,37
+0,Agsirab,38
+1,Agtuman,38
+2,Alugmawa,38
+3,Badiangan,38
+4,Balagiao,38
+5,Banban,38
+6,Bansag,38
+7,Bayuco,38
+8,Binaba-An Armada,38
+9,Binaba-An Labayno,38
+10,Binaba-An Limoso,38
+11,Binaba-An Portigo,38
+12,Binaba-An Tirador,38
+13,Bogongbong,38
+14,Bonbon,38
+15,Bontoc,38
+16,Buri,38
+17,Burirao,38
+18,Buwang,38
+19,Cabatangan,38
+20,Cabugao,38
+21,Cabunlawan,38
+22,Caguisanan,38
+23,Caloy-Ahan,38
+24,Caninguan,38
+25,Capangyan,38
+26,Cayan Este,38
+27,Cayan Oeste,38
+28,Corot-On,38
+29,Coto,38
+30,Cubay,38
+31,Cunarum,38
+32,Daanbanwa,38
+33,Gines,38
+34,Hipgos,38
+35,Jayubo,38
+36,Jorog,38
+37,Lanot Grande,38
+38,Lanot Pequeno,38
+39,Legayada,38
+40,Lumanay,38
+41,Madarag,38
+42,Magbato,38
+43,Maite Grande,38
+44,Maite Pequeno,38
+45,Malag-It,38
+46,Manaulan,38
+47,Maribong,38
+48,Marong,38
+49,Misi,38
+50,Natividad,38
+51,Pajo,38
+52,Pandan,38
+53,Panuran,38
+54,Pasig,38
+55,Patag,38
+56,Poblacion Ilawod,38
+57,Poblacion Ilaya,38
+58,Poong,38
+59,Pughanan,38
+60,Pungsod,38
+61,Quiling,38
+62,Sagcup,38
+63,San Gregorio,38
+64,Sibacungan,38
+65,Sibaguan,38
+66,Simsiman,38
+67,Supoc,38
+68,Tampucao,38
+69,Tranghawan,38
+70,Tubungan,38
+71,Tuburan,38
+72,Walang,38
+0,Agusipan,39
+1,Agutayan,39
+2,Bagumbayan,39
+3,Balabag,39
+4,Balibagan Este,39
+5,Balibagan Oeste,39
+6,Ban-Ag,39
+7,Bantay,39
+8,Barangay Zone I (Pob.),39
+9,Barangay Zone II (Pob.),39
+10,Barangay Zone III (Pob.),39
+11,Barangay Zone IV (Pob.),39
+12,Barangay Zone V (Pob.),39
+13,Barangay Zone VII (Pob.),39
+14,Barasan Este,39
+15,Barasan Oeste,39
+16,Binangkilan,39
+17,Bitaog-Taytay,39
+18,Bolong Este,39
+19,Bolong Oeste,39
+20,Buayahon,39
+21,Buyo,39
+22,Cabugao Norte,39
+23,Cabugao Sur,39
+24,Cadagmayan Norte,39
+25,Cadagmayan Sur,39
+26,Cafe,39
+27,Calaboa Este,39
+28,Calaboa Oeste,39
+29,Camambugan,39
+30,Canipayan,39
+31,Conaynay,39
+32,Daga,39
+33,Dalid,39
+34,Duyanduyan,39
+35,Gen. Martin T. Delgado,39
+36,Guno,39
+37,Inangayan,39
+38,Jibao-An,39
+39,Lacadon,39
+40,Lanag,39
+41,Lupa,39
+42,Magancina,39
+43,Malawog,39
+44,Mambuyo,39
+45,Manhayang,39
+46,Miraga-Guibuangan,39
+47,Nasugban,39
+48,Omambog,39
+49,Pal-Agon,39
+50,Pungsod,39
+51,San Sebastian,39
+52,Sangcate,39
+53,Tagsing,39
+54,Talanghauan,39
+55,Talongadian,39
+56,Tigtig,39
+57,Tuburan,39
+58,Tugas,39
+59,Tungay,39
+0,Agdum,40
+1,Aguiauan,40
+2,Alimodias,40
+3,Awang,40
+4,Bacauan,40
+5,Bacolod,40
+6,Bagumbayan,40
+7,Banbanan,40
+8,Banga,40
+9,Bangladan,40
+10,Banuyao,40
+11,Baraclayan,40
+12,Bariri,40
+13,Baybay Norte (Pob.),40
+14,Baybay Sur (Pob.),40
+15,Belen,40
+16,Bolho (Pob.),40
+17,Bolocaue,40
+18,Buenavista Norte,40
+19,Buenavista Sur,40
+20,Bugtong Lumangan,40
+21,Bugtong Naulid,40
+22,Cabalaunan,40
+23,Cabangcalan,40
+24,Cabunotan,40
+25,Cadoldolan,40
+26,Cagbang,40
+27,Caitib,40
+28,Calagtangan,40
+29,Calampitao,40
+30,Cavite,40
+31,Cawayanan,40
+32,Cubay,40
+33,Cubay Ubos,40
+34,Dalije,40
+35,Damilisan,40
+36,Dawog,40
+37,Diday,40
+38,Dingle,40
+39,Durog,40
+40,Frantilla,40
+41,Fundacion,40
+42,Gines,40
+43,Guibongan,40
+44,Igbita,40
+45,Igbugo,40
+46,Igcabidio,40
+47,Igcabito-On,40
+48,Igcatambor,40
+49,Igdalaquit,40
+50,Igdulaca,40
+51,Igpajo,40
+52,Igpandan,40
+53,Igpuro,40
+54,Igpuro-Bariri,40
+55,Igsoligue,40
+56,Igtuba,40
+57,Ilog-Ilog,40
+58,Indag-An,40
+59,Kirayan Norte,40
+60,Kirayan Sur,40
+61,Kirayan Tacas,40
+62,La Consolacion,40
+63,Lacadon,40
+64,Lanutan,40
+65,Lumangan,40
+66,Mabayan,40
+67,Maduyo,40
+68,Malagyan,40
+69,Mambatad,40
+70,Maninila,40
+71,Maricolcol,40
+72,Maringyan,40
+73,Mat-Y (Pob.),40
+74,Matalngon,40
+75,Naclub,40
+76,Nam-O Norte,40
+77,Nam-O Sur,40
+78,Narat-An,40
+79,Narorogan,40
+80,Naulid,40
+81,Olango,40
+82,Ongyod,40
+83,Onop,40
+84,Oya-Oy,40
+85,Oyungan,40
+86,Palaca,40
+87,Paro-On,40
+88,Potrido,40
+89,Pudpud,40
+90,Pungtod Monteclaro,40
+91,Pungtod Naulid,40
+92,Sag-On,40
+93,San Fernando,40
+94,San Jose,40
+95,San Rafael,40
+96,Sapa (Miagao),40
+97,Saring,40
+98,Sibucao,40
+99,Taal,40
+100,Tabunacan,40
+101,Tacas (Pob.),40
+102,Tambong,40
+103,Tan-Agan,40
+104,Tatoy,40
+105,Ticdalan,40
+106,Tig-Amaga,40
+107,Tig-Apog-Apog,40
+108,Tigbagacay,40
+109,Tiglawa,40
+110,Tigmalapad,40
+111,Tigmarabo,40
+112,To-Og,40
+113,Tugura-Ao,40
+114,Tumagboc,40
+115,Ubos Ilawod (Pob.),40
+116,Ubos Ilaya (Pob.),40
+117,Valencia,40
+118,Wayang,40
+0,Aganan,41
+1,Amparo,41
+2,Anilao,41
+3,Balabag,41
+4,Cabugao Norte,41
+5,Cabugao Sur,41
+6,Jibao-An,41
+7,Mali-Ao,41
+8,Pagsanga-An,41
+9,Pal-Agon,41
+10,Pandac,41
+11,Purok I (Pob.),41
+12,Purok II (Pob.),41
+13,Purok III (Pob.),41
+14,Purok IV (Pob.),41
+15,Tigum,41
+16,Ungka I,41
+17,Ungka II,41
+0,Bgy. 1 Pob. (Roxas St.),42
+1,Bgy. 10 (Pob. R.v.sanchez St. South),42
+2,Bgy. 11 Pob. (R.v.sanchez St. North),42
+3,Bgy. 12 Pob. (Sales Malaga Saliedo),42
+4,Bgy. 13 Pob. (Sta.rita-Saclauso St.),42
+5,Bgy. 14 Pob. (San Miguel North),42
+6,Bgy. 15 Pob. (San Miguel South),42
+7,Bgy. 16 Pob. (San Agustin St.),42
+8,Bgy. 2 Pob. (Savilla Sto. Rosario),42
+9,Bgy. 3 Pob. (A.s.suarez St. Zone 1),42
+10,Bgy. 4 Pob. (A.s.suarez East),42
+11,Bgy. 5 Pob. (Santiago St.north),42
+12,Bgy. 6 Pob. (Santiago St.south),42
+13,Bgy. 7 Pob. (San Roque St.south),42
+14,Bgy. 8 Pob. (Montano - San Roque),42
+15,Bgy. 9 Pob. (Salazar San Jose),42
+16,Consolacion,42
+17,Igtambo,42
+18,San Antonio,42
+19,San Jose,42
+20,Santa Cruz,42
+21,Santa Teresa,42
+22,Santo Angel,42
+23,Santo Nino,42
+0,Adgao,43
+1,Ago,43
+2,Ambarihon,43
+3,Ayubo,43
+4,Bacan,43
+5,Badiang,43
+6,Bagunanay,43
+7,Balicua,43
+8,Bantayanan,43
+9,Batga,43
+10,Bato,43
+11,Bikil,43
+12,Boloc,43
+13,Bondoc,43
+14,Borong,43
+15,Buenavista,43
+16,Cadabdab,43
+17,Daga-Ay,43
+18,Desposorio,43
+19,Igdampog Norte,43
+20,Igdampog Sur,43
+21,Igpaho,43
+22,Igtuble,43
+23,Ingay,43
+24,Isauan,43
+25,Jolason,43
+26,Jona,43
+27,La-Ag,43
+28,Lanag Norte,43
+29,Lanag Sur,43
+30,Male,43
+31,Mayang,43
+32,Molina,43
+33,Morcillas,43
+34,Nagba,43
+35,Navillan,43
+36,Pinamacalan,43
+37,San Jose,43
+38,Sibucauan,43
+39,Singon,43
+40,Tabat,43
+41,Tagpu-An,43
+42,Talento,43
+43,Teniente Benito,43
+44,Victoria,43
+45,Zone I (Pob.),43
+46,Zone II (Pob.),43
+47,Zone III (Pob.),43
