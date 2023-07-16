@@ -26,20 +26,20 @@ name
 parentId
 You should be able to demonstrate your knowledge in callbacks, promises, and asyc/await functions via the scripts that you will make:
 
-Script #1: Callbacks
+##Script #1: Callbacks
 HTTP Request - Use the old/deprecated request module. Note that for this script, you should use callbacks, and not promises or await/async.
 https://www.npmjs.com/package/request
 https://github.com/request/request
 https://stackoverflow.com/questions/39329456/request-callback-with-node (Example on using request callback)
 For this script, no need to save data in csv file. Just console.log() the array of objects pertaining to the barangays.
-Script #1: Promises
+##Script #2: Promises
 HTTP Request - axios
 https://www.npmjs.com/package/axios
 https://github.com/axios/axios
 CSV Formatting - fast-csv
 https://www.npmjs.com/package/fast-csv
 https://c2fo.github.io/fast-csv/docs/formatting/getting-started/
-Script #3: Async/Await
+##Script #3: Async/Await
 HTTP Request - axios
 https://www.npmjs.com/package/axios
 https://github.com/axios/axios
@@ -48,6 +48,6 @@ https://www.npmjs.com/package/fast-csv
 https://c2fo.github.io/fast-csv/docs/formatting/getting-started/
 Note: You can also create smaller modules (in separate files) for the main scripts, if you prefer.
 
-Stretch Goal #1 - Save all barangays in your province (not just the barangays in your municipality/city)
-Stretch Goal #2 - Save all barangays in the Philippines (not just the barangays in your province or in your municipality/city)
+##Stretch Goal #1 - Save all barangays in your province (not just the barangays in your municipality/city)
+##Stretch Goal #2 - Save all barangays in the Philippines (not just the barangays in your province or in your municipality/city)
 For the stretch goals, you can use any of your preferred method - e.g. callbacks, promises, async/await.
