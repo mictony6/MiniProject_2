@@ -1,30 +1,31 @@
 const request = require('request');
 
-function script1Start(province, municipality, cb){
-  
-  const barangaysUrl = `https://demo.myruntime.com/sustainability-run/fulfillmentClustersService/api/getPhilClusterOptions/sustainabilityRun?parentOption=${province}&childOption=${municipality}`;
-  
-  const req = {
-    url: barangaysUrl,
-    method: 'GET',
-    agentOptions: {
-      rejectUnauthorized:false
-    }
-  }
-
+function script1Start(province, municipality, callback) {
   try {
-    request(req, (err, res, body)=>{
-      if(cb){
-        cb(err, JSON.parse(body))
+    const barangaysUrl = `https://demo.myruntime.com/sustainability-run/fulfillmentClustersService/api/getPhilClusterOptions/sustainabilityRun?parentOption=${province}&childOption=${municipality}`;
+    const req = {
+      url: barangaysUrl,
+      method: 'GET',
+      agentOptions: {
+        rejectUnauthorized: false
+      }
+    }
+
+    request(req, (err, res, body) => {
+      if (callback) {
+        callback(err, JSON.parse(body))
       }
     });
-
   } catch (error) {
     console.error(error);
   }
-
 }
 
-
-module.exports = {script1Start};
+const province = "Iloilo", municipality = "Miagao";
+script1Start(province, municipality, (err, data) => {
+  for (barangay of data.data) {
+    console.log(barangay);
+  }
+});
+module.exports = { script1Start };
 

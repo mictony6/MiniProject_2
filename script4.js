@@ -9,19 +9,19 @@ const agent = new https.Agent({
   rejectUnauthorized: false
 });
 
-async function getData(url){
-  try{
-    const res = await axios.get(url, {httpsAgent: agent});
-    if(res.data && res.data.data && res.data.data){
+async function getData(url) {
+  try {
+    const res = await axios.get(url, { httpsAgent: agent });
+    if (res.data && res.data.data && res.data.data) {
       return res.data.data;
     }
   }
-  catch (e){
+  catch (e) {
     console.error(e);
   }
 }
 
-async function script4Start(province){
+async function script4Start(province) {
   try {
     //params
     const provincesUrl = "https://demo.myruntime.com/website/fulfillmentClustersService/api/getPhilClusters/myruntimeWeb";
@@ -34,30 +34,32 @@ async function script4Start(province){
     const barangays = [];
     let parentId = 0;
 
-    for (let municipality of municipalities){
+    for (let municipality of municipalities) {
       const barangaysUrl = `https://demo.myruntime.com/sustainability-run/fulfillmentClustersService/api/getPhilClusterOptions/sustainabilityRun?parentOption=${province}&childOption=${municipality}`;
       const childData = await getData(barangaysUrl);
 
-      if (parentData && childData){
+      if (parentData && childData) {
         childData.forEach((barangay, index) => {
-          barangays.push({id:index, name:barangay, parentId});
+          barangays.push({ id: index, name: barangay, parentId });
         });
       }
-
       parentId++;
     }
     // write to csv file
     const filepath = __dirname + "/script4_output.csv";
     let writeStream = fs.createWriteStream(filepath); // the output stream
-    csv.writeToStream(writeStream, barangays, {headers:['id', 'name', 'parentId']})
-      .on('finish', ()=>{writeStream.close()});
+    csv.writeToStream(writeStream, barangays, { headers: ['id', 'name', 'parentId'] })
+      .on('finish', () => { writeStream.close() });
 
     //returns a promise for the endpoint
-    return {province, municipalities, barangays};
+    return { province, municipalities, barangays };
 
   } catch (error) {
     console.error(error);
   }
 }
 
-module.exports = {script4Start};
+const province = "Iloilo";
+script4Start(province).then((data) => { console.log(data) });
+
+module.exports = { script4Start };

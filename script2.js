@@ -8,38 +8,38 @@ const agent = new https.Agent({
   rejectUnauthorized: false
 });
 
-function getData(url){
-  return axios.get(url, {httpsAgent:agent})
-  .then(res => {
-    return new Promise((resolve, reject) => {
-      if(res.data && res.data.data){
-        resolve(res.data.data);
-      }else{
-        reject(new Error("Property 'data' dont exist."));
-      }
-    });
+function getData(url) {
+  return axios.get(url, { httpsAgent: agent })
+    .then(res => {
+      return new Promise((resolve, reject) => {
+        if (res.data && res.data.data) {
+          resolve(res.data.data);
+        } else {
+          reject(new Error("Property 'data' dont exist."));
+        }
+      });
 
-  })
-  .catch(e => console.error(e));
+    })
+    .catch(e => console.error(e));
 }
-  
-function script2Start(province, municipality){
+
+function script2Start(province, municipality) {
 
   const barangaysUrl = `https://demo.myruntime.com/sustainability-run/fulfillmentClustersService/api/getPhilClusterOptions/sustainabilityRun?parentOption=${province}&childOption=${municipality}`;
   const provincesUrl = "https://demo.myruntime.com/website/fulfillmentClustersService/api/getPhilClusters/myruntimeWeb";
   return Promise.all([getData(provincesUrl), getData(barangaysUrl)])
-    .then(values =>{
+    .then(values => {
       const [parentData, childData] = values;
-  
+
       const barangays = []
 
-      if(parentData && childData){
-        // get parentId
+      if (parentData && childData) {
         const options = parentData.childOptions[province];
         const parentId = options.indexOf(municipality);
-    
+
+        // loop through each barangay and add it to the rows
         childData.forEach((barangay, index) => {
-          barangays.push({id:index, name:barangay, parentId});
+          barangays.push({ id: index, name: barangay, parentId });
         });
       }
       return barangays;
@@ -48,13 +48,16 @@ function script2Start(province, municipality){
       // write to csv file
       const filepath = __dirname + "/script2_output.csv";
       let writeStream = fs.createWriteStream(filepath); // the output stream
-      csv.writeToStream(writeStream, barangays, {headers:['id', 'name', 'parentId']})
-        .on('finish', ()=>{writeStream.close()});
+      csv.writeToStream(writeStream, barangays, { headers: ['id', 'name', 'parentId'] })
+        .on('finish', () => { writeStream.close() });
 
-      return {province, municipality, barangays};
+      return { province, municipality, barangays };
     })
-    .catch(e=>console.log(e));
-  
+    .catch(e => console.log(e));
 }
 
-module.exports = {script2Start};
+const province = "Iloilo", municipality = "Miagao";
+script2Start(province, municipality).then(data => {
+  console.log(data);
+});
+module.exports = { script2Start };
