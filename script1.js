@@ -9,11 +9,11 @@ function script1Start(province, municipality, callback) {
       agentOptions: {
         rejectUnauthorized: false
       }
-    }
+    };
 
     request(req, (err, res, body) => {
       if (callback) {
-        callback(err, JSON.parse(body))
+        callback(err, JSON.parse(body));
       }
     });
   } catch (error) {
@@ -21,11 +21,10 @@ function script1Start(province, municipality, callback) {
   }
 }
 
-const province = "Iloilo", municipality = "Miagao";
+const province = 'Iloilo',
+  municipality = 'Miagao';
 script1Start(province, municipality, (err, data) => {
-  for (barangay of data.data) {
+  for (let barangay of data.data) {
     console.log(barangay);
   }
 });
-module.exports = { script1Start };
-

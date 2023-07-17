@@ -1,6 +1,6 @@
 const https = require('https');
 const axios = require('axios');
-const fs = require("fs");
+const fs = require('fs');
 const csv = require('fast-csv');
 
 // fix for certificate expired
@@ -14,8 +14,7 @@ async function getData(url) {
     if (res.data && res.data.data) {
       return res.data.data;
     }
-  }
-  catch (e) {
+  } catch (e) {
     console.error(e);
   }
 }
@@ -24,7 +23,8 @@ async function script3Start(province, municipality) {
   try {
     //params
     const barangaysUrl = `https://demo.myruntime.com/sustainability-run/fulfillmentClustersService/api/getPhilClusterOptions/sustainabilityRun?parentOption=${province}&childOption=${municipality}`;
-    const provincesUrl = "https://demo.myruntime.com/website/fulfillmentClustersService/api/getPhilClusters/myruntimeWeb";
+    const provincesUrl =
+      'https://demo.myruntime.com/website/fulfillmentClustersService/api/getPhilClusters/myruntimeWeb';
 
     // fetch data from web
     const parentData = await getData(provincesUrl);
@@ -43,10 +43,15 @@ async function script3Start(province, municipality) {
       });
 
       // write to csv file
-      const filepath = __dirname + "/script3_output.csv";
+      const filepath = __dirname + '/script3_output.csv';
       let writeStream = fs.createWriteStream(filepath); // the output stream
-      csv.writeToStream(writeStream, barangays, { headers: ['id', 'name', 'parentId'] })
-        .on('finish', () => { writeStream.close() });
+      csv
+        .writeToStream(writeStream, barangays, {
+          headers: ['id', 'name', 'parentId']
+        })
+        .on('finish', () => {
+          writeStream.close();
+        });
     }
 
     return { province, municipality, barangays };
@@ -55,10 +60,10 @@ async function script3Start(province, municipality) {
   }
 }
 
-const province = "Iloilo", municipality = "Miagao";
+const province = 'Iloilo',
+  municipality = 'Miagao';
 async function runScript3() {
   const data = await script3Start(province, municipality);
   console.log(data);
 }
 runScript3();
-module.exports = { script3Start };

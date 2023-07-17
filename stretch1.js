@@ -1,8 +1,7 @@
 const https = require('https');
 const axios = require('axios');
-const fs = require("fs");
+const fs = require('fs');
 const csv = require('fast-csv');
-
 
 // fix for certificate expired
 const agent = new https.Agent({
@@ -15,16 +14,16 @@ async function getData(url) {
     if (res.data && res.data.data && res.data.data) {
       return res.data.data;
     }
-  }
-  catch (e) {
+  } catch (e) {
     console.error(e);
   }
 }
 
-async function script4Start(province) {
+async function stretch1Start(province) {
   try {
     //params
-    const provincesUrl = "https://demo.myruntime.com/website/fulfillmentClustersService/api/getPhilClusters/myruntimeWeb";
+    const provincesUrl =
+      'https://demo.myruntime.com/website/fulfillmentClustersService/api/getPhilClusters/myruntimeWeb';
 
     // fetch data from web
     const parentData = await getData(provincesUrl);
@@ -46,20 +45,24 @@ async function script4Start(province) {
       parentId++;
     }
     // write to csv file
-    const filepath = __dirname + "/script4_output.csv";
+    const filepath = __dirname + '/script4_output.csv';
     let writeStream = fs.createWriteStream(filepath); // the output stream
-    csv.writeToStream(writeStream, barangays, { headers: ['id', 'name', 'parentId'] })
-      .on('finish', () => { writeStream.close() });
+    csv
+      .writeToStream(writeStream, barangays, {
+        headers: ['id', 'name', 'parentId']
+      })
+      .on('finish', () => {
+        writeStream.close();
+      });
 
     //returns a promise for the endpoint
     return { province, municipalities, barangays };
-
   } catch (error) {
     console.error(error);
   }
 }
 
-const province = "Iloilo";
-script4Start(province).then((data) => { console.log(data) });
-
-module.exports = { script4Start };
+const province = 'Iloilo';
+stretch1Start(province).then(data => {
+  console.log(data);
+});

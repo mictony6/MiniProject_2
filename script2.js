@@ -1,6 +1,6 @@
 const https = require('https');
 const axios = require('axios');
-const fs = require("fs");
+const fs = require('fs');
 const csv = require('fast-csv');
 
 // fix for certificate expired
@@ -9,7 +9,8 @@ const agent = new https.Agent({
 });
 
 function getData(url) {
-  return axios.get(url, { httpsAgent: agent })
+  return axios
+    .get(url, { httpsAgent: agent })
     .then(res => {
       return new Promise((resolve, reject) => {
         if (res.data && res.data.data) {
@@ -18,20 +19,19 @@ function getData(url) {
           reject(new Error("Property 'data' dont exist."));
         }
       });
-
     })
     .catch(e => console.error(e));
 }
 
 function script2Start(province, municipality) {
-
   const barangaysUrl = `https://demo.myruntime.com/sustainability-run/fulfillmentClustersService/api/getPhilClusterOptions/sustainabilityRun?parentOption=${province}&childOption=${municipality}`;
-  const provincesUrl = "https://demo.myruntime.com/website/fulfillmentClustersService/api/getPhilClusters/myruntimeWeb";
+  const provincesUrl =
+    'https://demo.myruntime.com/website/fulfillmentClustersService/api/getPhilClusters/myruntimeWeb';
   return Promise.all([getData(provincesUrl), getData(barangaysUrl)])
     .then(values => {
       const [parentData, childData] = values;
 
-      const barangays = []
+      const barangays = [];
 
       if (parentData && childData) {
         const options = parentData.childOptions[province];
@@ -46,18 +46,23 @@ function script2Start(province, municipality) {
     })
     .then(barangays => {
       // write to csv file
-      const filepath = __dirname + "/script2_output.csv";
+      const filepath = __dirname + '/script2_output.csv';
       let writeStream = fs.createWriteStream(filepath); // the output stream
-      csv.writeToStream(writeStream, barangays, { headers: ['id', 'name', 'parentId'] })
-        .on('finish', () => { writeStream.close() });
+      csv
+        .writeToStream(writeStream, barangays, {
+          headers: ['id', 'name', 'parentId']
+        })
+        .on('finish', () => {
+          writeStream.close();
+        });
 
       return { province, municipality, barangays };
     })
     .catch(e => console.log(e));
 }
 
-const province = "Iloilo", municipality = "Miagao";
+const province = 'Iloilo',
+  municipality = 'Miagao';
 script2Start(province, municipality).then(data => {
   console.log(data);
 });
-module.exports = { script2Start };
